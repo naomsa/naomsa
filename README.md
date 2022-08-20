@@ -2,9 +2,9 @@
 
 <img style="margin: 0 auto; width: 100%;" src="https://c4.wallpaperflare.com/wallpaper/500/442/354/outrun-vaporwave-hd-wallpaper-preview.jpg"/>
 
-- 🧻 I've deployed multiple contracts to the ethereum mainnet
+- 🧻 Already deployed multiple contracts to the ethereum mainnet
 
-- 🍚 I’m currently getting better at **react.js and next.js** and getting started with **SQL and nest.js**
+- 🍚 Currently getting better at **solidity, next.js and express.js**
 
 - 🐳 I love to contribute to open-source projects and help other people with their ideas
 
